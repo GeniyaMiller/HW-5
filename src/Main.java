@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
+
         int [] ball = new int [3];
         ball [0] = 1;
         ball [1] = 2;
@@ -68,7 +69,6 @@ public class Main {
             }
 
         }
-
 
 
 
